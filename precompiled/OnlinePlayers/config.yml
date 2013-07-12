@@ -1,0 +1,3 @@
+# Config file for "spoofed" max players
+serverlist-maxplayers: 30
+game-maxplayers: 30
