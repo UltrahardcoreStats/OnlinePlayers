@@ -8,5 +8,6 @@ public class ServerListPingHandler implements Listener {
 	@EventHandler
 	public void onServerListPing(ServerListPingEvent event) {
 		event.setMaxPlayers(OnlinePlayers.getServerListMaxPlayers());
+		event.setMotd(OnlinePlayers.getServerMOTD());
 	}
 }

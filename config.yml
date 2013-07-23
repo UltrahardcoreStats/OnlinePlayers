@@ -1,3 +1,4 @@
 # Config file for "spoofed" max players
 serverlist-maxplayers: 40
 game-maxplayers: 40
+server-motd: A Minecraft Server!
